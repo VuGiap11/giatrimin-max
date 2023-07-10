@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\timgiatrimin-max\bin\Debug\timgiatrimin-max.exe.config
+C:\Users\tuan\Desktop\timgiatrimin-max\bin\Debug\timgiatrimin-max.exe
+C:\Users\tuan\Desktop\timgiatrimin-max\bin\Debug\timgiatrimin-max.pdb
+C:\Users\tuan\Desktop\timgiatrimin-max\obj\Debug\timgiatrimin-max.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\timgiatrimin-max\obj\Debug\timgiatrimin-max.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\timgiatrimin-max\obj\Debug\timgiatrimin-max.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\timgiatrimin-max\obj\Debug\timgiatrimin-max.exe
+C:\Users\tuan\Desktop\timgiatrimin-max\obj\Debug\timgiatrimin-max.pdb
